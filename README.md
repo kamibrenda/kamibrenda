@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate with different stakeholders as a data scientist in a view of fully getting domain knowledge of various industries as i specialise within the field.
   
 - 💬 Lowkey a music geek lol debugging with music makes it so much fun. Lets code and vibe :)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2fy4k5qvd4neep7mkwhr1zq7r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+ 
   
 - 📫 How to reach me: brenda.njuguna254@gmail.com
   
