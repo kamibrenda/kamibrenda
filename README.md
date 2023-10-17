@@ -3,15 +3,19 @@
 
 
 
-**About Me**
+<div id="header" align="left">
+  <img src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/200w.webp?cid=ecf05e47zr2gcxv3d97vusp0pbvlhegzezf8mg53r3w1j9rw&ep=v1_gifs_related&rid=200w.webp&ct=g" width="300"/>
+</div>
 
-- 🔭 I’m currently working on an Alien invasion game written in Python which i find quite exciting as i navigate the different aspects of python in relation to game development as well.
+📈 Exploring the data-driven universe, one dataset at a time 🌌
   
-- 🌱 I’m currently learning Data science as i delve deeper into Machine learning from the data analytics field.
+💡 Turning data into insights, one line of code at a time 💻
+
+🧐 Uncovering hidden patterns and stories within the numbers 🔍
   
-- 👯 I’m looking to collaborate with different stakeholders as a data scientist in a view of fully getting domain knowledge of various industries as i specialise within the field.
+👯 I’m looking to collaborate with different stakeholders as a data scientist in a view of fully getting domain knowledge of various industries as i specialise within the field. 
   
-- 💬 Lowkey a music geek lol debugging with music makes it so much fun. Lets code and vibe :)
+🎸 Music fuels my debugging sessions 🎧
  
   
 - 📫 How to reach me: brenda.njuguna254@gmail.com
