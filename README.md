@@ -20,7 +20,7 @@
   
 - 📫 How to reach me: brenda.njuguna254@gmail.com
   
-- Check out mu=y visualisations here: https://public.tableau.com/app/profile/brenda.mukami/vizzes 
+- Check out my visualisations here: https://public.tableau.com/app/profile/brenda.mukami/vizzes 
   
 
 
