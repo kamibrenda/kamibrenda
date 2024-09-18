@@ -20,7 +20,7 @@
   
 - 📫 How to reach me: brenda.njuguna254@gmail.com
   
-- 😄 Pronouns: she/her
+- Check out mu=y visualisations here: https://public.tableau.com/app/profile/brenda.mukami/vizzes 
   
 
 
