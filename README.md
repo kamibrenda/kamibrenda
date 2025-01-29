@@ -13,7 +13,7 @@
 
 🧐 Uncovering hidden patterns and stories within the numbers 🔍
   
-👯 I’m looking to collaborate with different stakeholders as a data scientist in a view of fully getting domain knowledge of various industries as i specialise within the field. 
+👯 I’m looking to collaborate with different stakeholders as a data analyst in a view of fully getting domain knowledge of various industries as i specialise within the field. 
   
 🎸 Music fuels my debugging sessions 🎧
  
